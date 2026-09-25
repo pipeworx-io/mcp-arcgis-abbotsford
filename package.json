@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-abbotsford",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Abbotsford GIS — Abbotsford, BC (Canada) open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b3494bd84e9a4a0dace7eccedd228f9903cbd8eaa053813d90ee39ca6021db45",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-cad668b63c4502c5a912d6c1f66832b2ac47119eadf416643feef8b79d2d531a",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
